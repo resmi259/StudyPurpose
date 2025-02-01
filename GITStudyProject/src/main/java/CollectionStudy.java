@@ -14,7 +14,7 @@ public class CollectionStudy {
 		
 		student.put("ABC1", 100);
 		student.put("ABC2", 150);
-		student.put("ABC3", 80);
+		student.put("ABC4", 80);
 		
 		System.out.println(student.keySet());
 		for (String key:student.keySet() )
